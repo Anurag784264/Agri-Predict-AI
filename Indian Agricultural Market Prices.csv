@@ -1,0 +1,123 @@
+crop,crop_hindi,modal_rs_per_quintal,min,max,msp
+Wheat,गेहूँ,2642,2500,2925,2585
+Rice (Paddy),धान / चावल,3750,2500,6520,2441
+Maize (Corn),मक्का,2350,1801,2700,2410
+Jowar (Sorghum),ज्वार,3721,2450,6525,4023
+Bajra (Pearl Millet),बाजरा,2380,2150,2871,2900
+Barley,जौ,2600,1930,2851,2150
+Onion,प्याज,4250,2770,5950,
+Potato,आलू,1100,500,4000,
+Tomato,टमाटर,2300,1200,3300,
+Garlic,लहसुन,16500,7000,25600,
+Ginger,अदरक,6000,2500,15000,
+Chili (Mirch),मिर्च,14290,3584,31500,
+Cotton,कपास,8300,7890,8625,8267
+Sugarcane,गन्ना,350,350,350,355
+Jute,जूट,11900,11200,13500,5925
+Soybean,सोयाबीन,6769,6400,7075,5708
+Mustard (Rapeseed),सरसों / राई,8000,6900,8575,6200
+Groundnut,मूँगफली,7300,5850,8500,7517
+Sunflower,सूरजमुखी,7264,7025,7304,8343
+Sesame (Til),तिल,14368,10500,16726,10346
+Gram (Chana),चना / छोला,6900,6075,7700,5875
+Arhar (Tur/Pigeon Pea),अरहर / तुअर,9300,7100,10180,8450
+Moong (Green Gram),मूंग,8271,7065,9509,8780
+Urad (Black Gram),उड़द,8201,6500,9800,8200
+Masur (Lentil),मसूर,6200,5600,7550,7000
+Turmeric,हल्दी,9100,1800,17500,
+Coriander (Dhaniya),धनिया,5500,3250,10000,
+Cumin (Jeera),जीरा,7495,5500,13500,
+Banana,केला,3800,2100,6600,
+Castor,अरंडी,8200,7419,8300,
+Brinjal,बैंगन,2750,1300,4500,
+Cauliflower,फूलगोभी,3200,2050,5000,
+Cabbage,पत्ता गोभी,2800,1500,3750,
+Green Peas,हरी मटर,6000,2750,16250,
+Okra (Ladyfinger),भिंडी,2500,1200,4500,
+Cucumber,खीरा,2300,23,2300,
+Carrot,गाजर,5000,2700,6000,
+Radish,मूली,3000,3000,3000,
+Bottle Gourd,लौकी,1900,1000,3300,
+Bitter Gourd,करेला,4250,1800,6500,
+Pumpkin,कद्दू,1800,1000,2750,
+Spinach,पालक,2250,600,4500,
+Capsicum,शिमला मिर्च,4750,2300,6650,
+Green Chilli,हरी मिर्च,4400,2000,6500,
+Sweet Potato,शकरकंद,1900,570,5500,
+Colocasia (Arbi),अरबी,2200,1200,3800,
+Drumstick (Moringa),सहजन,4500,3000,6000,
+Beetroot,चुकंदर,4500,2250,6250,
+French Beans,फ्रेंच बीन्स,4600,2900,10000,
+Mango,आम,9800,6000,13500,
+Grapes,अंगूर,10500,5500,17000,
+Pomegranate,अनार,10500,5500,18000,
+Apple,सेब,8000,4150,19000,
+Orange,संतरा,9000,5000,15000,
+Guava,अमरूद,6250,4000,9000,
+Papaya,पपीता,3500,2000,5200,
+Watermelon,तरबूज,1200,600,2400,
+Muskmelon,खरबूजा,11230,11230,11230,
+Pineapple,अनानास,5000,2750,8000,
+Litchi,लीची,20000,20000,20000,
+Sapota (Chiku),चीकू,4750,3250,6000,
+Coconut,नारियल,5550,3000,7300,
+Lemon,नींबू,15000,5000,26500,
+Fenugreek (Methi),मेथी,5201,1250,7050,
+Fennel (Saunf),सौंफ,12000,8000,18000,
+Ajwain (Carom),अजवाइन,14000,9000,22000,
+Black Pepper,काली मिर्च,8300,6000,65009,
+Cardamom,इलायची,297500,297500,297500,
+Clove,लौंग,95000,70000,130000,
+Nutmeg (Jaiphal),जायफल,90000,90000,90000,
+Tamarind,इमली,13500,3800,15500,
+Dry Ginger (Sonth),सोंठ,12500,4501,19000,
+Cowpea (Lobia),लोबिया,4750,3100,7500,
+Horse Gram (Kulthi),कुलथी,5519,4760,7000,
+Dry Peas (Matar),मटर (सूखी),4200,3160,6500,
+Rajma (Kidney Bean),राजमा,4500,4500,4500,
+Linseed (Alsi),अलसी,10126,8050,11451,
+Niger Seed,रामतिल,7610,6101,19500,10052
+Safflower (Kusum),कुसुम,5756,4900,6400,6540
+Ragi (Finger Millet),रागी,2776,1800,4600,5205
+Foxtail Millet (Kangni),कंगनी,3850,3100,6100,
+Kodo Millet,कोदो,2450,2340,2650,
+Little Millet (Kutki),कुटकी,2380,2000,5000,
+Sorghum Fodder,चारा ज्वार,2380,2150,2871,
+Arecanut (Supari),सुपारी,28899,20000,46389,
+Cashew Nut,काजू,10500,8505,13250,
+Natural Rubber,रबर,25600,25400,26500,
+Tea (Green Leaf),चाय,5000,2200,15300,
+Coffee,कॉफी,20900,20600,21500,
+Tobacco,तंबाकू,2200,1764,5000,
+Isabgol (Psyllium),इसबगोल,13200,11275,13200,
+Onion Seed,प्याज बीज,5300,3000,7587,
+Ridge Gourd (Turai),तुरई / तोरी,2500,1200,5750,
+Pointed Gourd (Parwal),परवल,2650,1200,5750,
+Round Gourd (Tinda),टिंडा,2500,1200,5750,
+Ash Gourd (Petha),पेठा / कुम्हड़ा,2500,1200,5750,
+Elephant Yam (Suran),जिमीकंद / सूरन,5000,3200,7000,
+Ivy Gourd (Tindora),कुंदरू / तिंदोरा,2500,1200,5750,
+Sponge Gourd (Ghia Tori),घिया तोरी / नेनुआ,3600,1500,5750,
+Cluster Beans (Guar Phali),ग्वार फली,4600,3000,10000,
+Amaranthus (Chaulai),चौलाई,2750,1750,4350,
+Tapioca (Cassava),कसावा / टेपियोका,3400,2750,4500,
+Snake Gourd (Chichinda),चिचिंडा / पड़वल,2500,1200,5750,
+Amla (Indian Gooseberry),आंवला,8000,5600,11600,
+Jackfruit,कटहल,1200,1200,1200,
+Custard Apple (Sitaphal),सीताफल / शरीफा,8000,4150,19000,
+Peach (Aadoo),आड़ू,14000,14000,14000,
+Pear (Nashpati),नाशपाती,7000,3000,13500,
+Plum (Aloo Bukhara),आलू बुखारा,8000,5200,8000,
+Fig (Anjeer),अंजीर,14000,5500,16000,
+Jamun (Java Plum),जामुन,8000,5200,8000,
+Mulberry (Shahtoot),शहतूत,3000,1500,6000,
+Walnut (Akhrot),अखरोट,90000,60000,90000,
+Almond (Badam),बादाम,97500,97500,97500,
+Marigold (Genda Phool),गेंदा,13500,6000,30000,
+Mentha (Pudina / Mint),पुदीना,4750,3500,6500,
+Guar Seed (Cluster Bean Seed),ग्वार दाना,7300,6800,7900,
+Ashwagandha (Withania),अश्वगंधा,14400,14400,14400,
+Lemongrass (Cymbopogon),नींबू घास,1400,700,2500,
+Poppy Seed (Khus Khus),खसखस / पोस्ता,7610,6101,19500,
+Bay Leaf (Tej Patta),तेज पत्ता,2600,2600,2600,
+Long Pepper (Pipali),पिपली,66000,2700,69800,
